@@ -1,0 +1,5 @@
+Credentials cache: API:D7921752-842E-4BC1-A747-68BADC07AC4B
+        Principal: mcil@42ISTANBUL.COM.TR
+
+  Issued                Expires               Principal
+Sep  2 11:21:42 2021  Sep  2 21:21:42 2021  krbtgt/42ISTANBUL.COM.TR@42ISTANBUL.COM.TR
