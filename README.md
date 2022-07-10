@@ -1,5 +1,13 @@
 # C Piscine @ 42istanbul
 
+<p align="center">
+	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/tugberkcil/ecole42-piscine?color=blueviolet" />
+	<img alt="Number of lines of code" src="https://img.shields.io/tokei/lines/github/tugberkcil/ecole42-piscine?color=blueviolet" />
+	<img alt="Code language count" src="https://img.shields.io/github/languages/count/tugberkcil/ecole42-piscine?color=blue" />
+	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/tugberkcil/ecole42-piscine?color=blue" />
+	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/tugberkcil/ecole42-piscine?color=brightgreen" />
+</p>
+
 This repository contains coding developed at [42istanbul's](https://www.42sp.org.br/) C bootcamp (also known as `Piscine`), from 31/aug/2021 to 26/sep/2021.
 
 ## About 42
