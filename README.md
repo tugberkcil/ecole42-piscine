@@ -46,6 +46,5 @@ This repository contains coding developed at [42istanbul's](https://www.42sp.org
     
 ## Curriculum
 
-       It includes multiple projects in c language and team projects called rush. The rush projects I made are 
-     not in this repository.
+        It includes multiple projects in c language and team projects called rush.
 
