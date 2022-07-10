@@ -1,4 +1,6 @@
+<h1 align="center">
 # C Piscine @ 42istanbul
+</h1>
 
 <p align="center">
 	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/tugberkcil/ecole42-piscine?color=blueviolet" />
