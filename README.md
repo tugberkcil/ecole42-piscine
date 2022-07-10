@@ -12,9 +12,8 @@
 
 This repository contains coding developed at [42istanbul's](https://www.42sp.org.br/) C bootcamp (also known as `Piscine`), from 31/aug/2021 to 26/sep/2021.
 
-![alt text](https://imgs.platinonline.com/Documents/Platin/images/2022/06/07/18-yasindan-buyuk-herkes--658_2-41.jpg)
-
 ## About 42
+![alt text](https://imgs.platinonline.com/Documents/Platin/images/2022/06/07/18-yasindan-buyuk-herkes--658_2-41.jpg)
 
 	A global education effort called 42 proposes a new approach to teaching technology: 
     peer-to-peer learning, without teachers or classrooms,and a system that fosters both 
